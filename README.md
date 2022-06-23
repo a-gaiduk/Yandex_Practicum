@@ -4,13 +4,13 @@
 
 | Номер | Название и ссылка | Инструменты | Описание |
 | :-------------------- | ---------------------: |:---------------------------:|:---------------------------:|
-| 1 | Исследование данных сервиса “Яндекс.Музыка” (https:) | Python Pandas | Сравнение потребления музыки двух столиц России | 
+| 1 | Исследование данных сервиса Яндекс.Музыка (https:) | Python Pandas | Сравнение потребления музыки двух столиц России | 
 | 2 | Исследование надёжности заёмщиков — анализ банковских данных (https:) | Python Pandas |  | 
 | 3 | Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости (https:) | Python Pandas Matplotlib|  | 
 | 4 | Определение выгодного тарифа для телеком компании (https:) | Python Pandas Matplotlib NumPy SciPy |  | 
-| 5 | (https:) | |  | 
-| 6 | Классификаиция клиентов телеком компании (https:) | Python Pandas Matplotlib Scikit-learn |  | 
-| 7 | Прогнозирование оттока клиента Банка (https:) | Pandas Matplotlib Scikit-learn|  | 
+| 5 | Исследование успеха компьютерных игр (https:) | Python Pandas Matplotlib Seaborn |  | 
+| 6 | Классификаиция клиентов телеком компании (https:) | Python Pandas Matplotlib Seaborn Scikit-learn |  | 
+| 7 | Прогнозирование оттока клиента Банка (https:) | Pandas Matplotlib Seaborn Scikit-learn|  | 
 | 8 | Определение наиболее выгодного региона нефтедобычи (https:) | Pandas Scikit-learn |  | 
 | 9 | Исследование технологического процесса очистки золота (https:) | Python Pandas Matplotlib NumPy Scikit-learn |  | 
 | 10 | Защита данных клиентов страховой компании (https:) | Python NumPy Scikit-learn |  | 
@@ -18,8 +18,5 @@
 | 12 | Прогнозирование количества заказов такси на следующий час (https:) | Python Pandas Scikit-learn statsmodels |  | 
 | 13 | Обучение модели классификации комментариев (https:) | Python Pandas BERT nltk tf-idf |  | 
 | 14 | Обработка фотографий покупателя (https:) | Python Keras |  | 
-
-
-
 
 ---
